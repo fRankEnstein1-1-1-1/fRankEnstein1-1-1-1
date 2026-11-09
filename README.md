@@ -64,5 +64,5 @@ Carbon research project estimating vegetation biomass and carbon from drone imag
 
 ## 📫 Let's connect
 
-I'm open to internships and entry-level roles in full-stack and ML engineering.
+I'm open to  entry-level roles in full-stack and ML engineering.
 Reach me on [LinkedIn](https://www.linkedin.com/in/adithya-menon-7ab361318).
